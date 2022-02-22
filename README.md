@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuruSoni04
-- 👀 I’m interested in AI, web devepolment, and game development
+- 👀 I’m interested in AI, web development, and game development
 - 🌱 I’m currently a high school student
-- 💞️ I’m looking to collaborate on  maching learning related or general python projects 
+- 💞️ I’m looking to collaborate on  machine learning related or general python projects 
 - 📫 How to reach me - purusoni04@gmail.com
 
 <!---
